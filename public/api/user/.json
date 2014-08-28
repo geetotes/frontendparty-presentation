@@ -1,4 +1,6 @@
 {
-  "Name": "James Kirk",
+  "First_Name": "James",
+  "Middle_Name": "T.",
+  "Last_Name": "Kirk",
   "Created_at": "Thu Aug 28 2014 12:41:03 GMT-0500 (CDT)"
 }
